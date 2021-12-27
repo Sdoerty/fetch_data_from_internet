@@ -4,7 +4,7 @@
 https://docs.flutter.dev/cookbook/networking/fetch-data
 
 
-Получаем один объект:
+Получаем один объект JSON:
 {
 "userId": 1,
 "id": 1,
